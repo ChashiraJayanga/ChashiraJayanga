@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
- My Github Username- ChashiraJayanga
- My Student Registraton Number - IT20188672
+- My Github Username - ChashiraJayanga
+- My Student Registraton Number - IT20188672
 
 <!---
 ChashiraJayanga/ChashiraJayanga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
